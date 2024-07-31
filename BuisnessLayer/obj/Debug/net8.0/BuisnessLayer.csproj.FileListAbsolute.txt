@@ -1,0 +1,17 @@
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\BuisnessLayer.deps.json
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\BuisnessLayer.dll
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\BuisnessLayer.pdb
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.AssemblyInfo.cs
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.dll
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\refint\BuisnessLayer.dll
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.pdb
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\ref\BuisnessLayer.dll
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\ModelLayer.dll
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\RepositoryLayer.dll
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\ModelLayer.pdb
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\Saikat Mondal\source\repos\FundooNotes\BuisnessLayer\obj\Debug\net8.0\Buisness.5534DC49.Up2Date
